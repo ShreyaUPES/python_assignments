@@ -25,3 +25,16 @@ def polar_coordinates(point):
 point = points[2]
 r, theta = polar_coordinates(point)
 print(f"Polar coordinates of {point}: r = {r}, theta = {math.degrees(theta)}°")
+
+
+def move_point(point, dx, dy):
+    x, y = point
+    new_x = x + dx
+    new_y = y + dy
+    return new_x, new_y
+
+
+point = points[2]
+dx, dy = 2, 3
+new_position = move_point(point, dx, dy)
+print(f"New position of {point} after moving by ({dx},{dy}): {new_position}")
