@@ -4,11 +4,8 @@
 1- The GUI
 ![image](https://github.com/user-attachments/assets/da3cb1c3-a639-4ce1-acce-0b82caa7044f)
 
-2- Adding Budget
-![image](https://github.com/user-attachments/assets/ac7ccdfe-fdbe-47a2-a78c-59a95350f929)
-
 3- Budget set
-![image](https://github.com/user-attachments/assets/58c8ce76-bdff-498e-bf16-8f919742473d)
+![image](https://github.com/user-attachments/assets/8f7a635a-34a9-4350-afdf-fbcc32989733)
 
 4- Adding expenses
 ![image](https://github.com/user-attachments/assets/f86f80fe-797a-4381-a443-db9e603a5bea)
